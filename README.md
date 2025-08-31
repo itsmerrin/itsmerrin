@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
 <h3 align="center">a nub coder</h3>
 
-- 🌱 I’m currently learning **java, python, sql, c/c++**
+- I’m currently learning **java, python, sql, c/c++**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
