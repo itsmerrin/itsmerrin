@@ -4,4 +4,7 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmerrin&theme=dark" alt="itsmerrin" /></p>
+<p style="text-align:center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmerrin&theme=dark" alt="itsmerrin">
+</p>
+
